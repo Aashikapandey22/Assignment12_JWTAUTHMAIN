@@ -229,7 +229,4 @@ A complete Postman collection is included in [`postman_collection.json`](./postm
 
 ---
 
-## 👩‍💻 Author
 
-**Tiya Gupta**  
-GitHub: [@tiyag1608](https://github.com/tiyag1608)
